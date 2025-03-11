@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: plos_latex_template.aux
+The style file: plos2015.bst
+Illegal, another \bibstyle command---line 49 of file plos_latex_template.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Database file #1: reference.bib
+Warning--I'm ignoring sousounis2012conservation's extra "journal" field
+--line 98 of file reference.bib
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You can't pop an empty literal stack for entry zumstein2005spectral
+while executing---line 1875 of file plos2015.bst
+Name 2 in "Clauset, A.  and Newman, M.  E. , and Moore, C" has a comma at the end for entry newman2004commu
+while executing---line 1875 of file plos2015.bst
+You've used 35 entries,
+            3058 wiz_defined-function locations,
+            833 strings with 9885 characters,
+and the built_in function-call counts, 47022 in all, are:
+= -- 5970
+> -- 368
+< -- 5
++ -- 189
+- -- 92
+* -- 3702
+:= -- 5194
+add.period$ -- 134
+call.type$ -- 35
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 35
+duplicate$ -- 4257
+empty$ -- 4457
+format.name$ -- 116
+if$ -- 11032
+int.to.chr$ -- 0
+int.to.str$ -- 35
+missing$ -- 288
+newline$ -- 178
+num.names$ -- 35
+pop$ -- 508
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 488
+stack$ -- 0
+substring$ -- 8411
+swap$ -- 778
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 281
+width$ -- 37
+write$ -- 385
+(There were 3 error messages)
